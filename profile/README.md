@@ -69,16 +69,18 @@ We welcome contributors of all levels! Here's how you can help:
 
 ### 🏗️ Project Structure
 Each project follows this consistent structure:
+
+```
 project-name/
 ├── THEORY.md # Conceptual explanation and theory
 ├── implementations/ # Code in various languages
-│ ├── python/
-│ ├── javascript/
-│ └── rust/
+│   ├── python/
+│   ├── javascript/
+│   └── rust/
 ├── examples/ # Practical usage examples
 ├── benchmarks/ # Performance tests and comparisons
 └── CONTRIBUTING.md # Project-specific guidelines
-
+```
 
 ## 📚 Learning Paths
 
@@ -93,7 +95,7 @@ project-name/
 3. Dive into `operating-system/` - Understand OS fundamentals
 
 ## 🏗️ Structure
-
+```
 FromScratchLab/
 ├── 📁 data-structures/ # Core data structure implementations
 ├── 📁 algorithms/ # Algorithm implementations and analysis
@@ -103,7 +105,7 @@ FromScratchLab/
 ├── 📁 developer-tools/ # Utilities built from first principles
 ├── 📁 experiments/ # Proof-of-concepts and research
 └── 📁 templates/ # Contribution guidelines and standards
-
+```
 
 ## 📜 Code of Conduct
 
